@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "level": "easy",
+            "topic": "videogames",
+            "question": "In which year was released Luigi's mansion?",
+            "answer": "2001"
+        },
+        {
+            "level": "medium",
+            "topic": "videogames",
+            "question": "Tomb raider, icon Lara Croft was originally called...",
+            "answer": "Laura Cruz"
+        },
+        {
+            "level": "hard",
+            "topic": "videogames",
+            "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+            "answer": "7355608"
+        },
+        {
+            "level": "easy",
+            "topic": "science & nature",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "answer": "Apollo 11"
+        },
+        {
+            "level": "medium",
+            "topic": "science & nature",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "answer": "Apollo 11"
+        },
+        {
+            "level": "hard",
+            "topic": "science & nature",
+            "question": "About how old is Earth?",
+            "answer": "4.5 Billion Years"
+        },
+        {
+            "level": "easy",
+            "topic": "history",
+            "question": "How many manned moon landings have there been?",
+            "answer": "6"
+        },
+        {
+            "level": "medium",
+            "topic": "history",
+            "question": "Which dictator killed the most people?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "level": "hard",
+            "topic": "history",
+            "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
+            "answer": "Socrates"
+        }
+    ]
+}
