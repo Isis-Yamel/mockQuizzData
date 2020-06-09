@@ -4,9 +4,9 @@
             "topic": "videogames",
             "trivia": [
                 {
+                    "level": "easy",
                     "question": "In which year was released Luigi's mansion?",
-                    "answer": "2001",
-                    "level": "easy"
+                    "answer": "2001"
                 },
                 {
                     "level": "medium",
