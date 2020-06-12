@@ -1,7 +1,4 @@
 {
-    "data":
-        {
-            "topics": [ "videogames", "science & nature", "history"],
-            "levels": ["easy", "medium", "hard"]
-        }
+    "topics": [ "videogames", "science & nature", "history"],
+    "levels": ["easy", "medium", "hard"]
 }

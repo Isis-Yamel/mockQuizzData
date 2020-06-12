@@ -1,64 +1,65 @@
-{
-    "data": [
-        {
-            "topic": "videogames",
-            "trivia": [
-                {
-                    "level": "easy",
-                    "question": "In which year was released Luigi's mansion?",
-                    "answer": "2001"
-                },
-                {
-                    "level": "medium",
-                    "question": "Tomb raider, icon Lara Croft was originally called...",
-                    "answer": "Laura Cruz"
-                },
-                {
-                    "level": "hard",
-                    "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
-                    "answer": "7355608"
-                }
-            ]
-        },
-        {
-            "topic": "science & nature",
-            "trivia": [
-                {
-                    "level": "easy",
-                    "question": "Which Apollo mission was the first one to land on the Moon?",
-                    "answer": "Apollo 11"
-                },
-                {
-                    "level": "medium",
-                    "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
-                    "answer": "Gale"
-                },
-                {
-                    "level": "hard",
-                    "question": "About how old is Earth?",
-                    "answer": "4.5 Billion Years"
-                }
-            ]
-        },
-        {
-            "topic": "history",
-            "trivia": [
-                {
-                    "level": "easy",
-                    "question": "How many manned moon landings have there been?",
-                    "answer": "6"
-                },
-                {
-                    "level": "medium",
-                    "question": "Which dictator killed the most people?",
-                    "answer": "Mao Zedong"
-                },
-                {
-                    "level": "hard",
-                    "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
-                    "answer": "Socrates"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "1v",
+        "topic": "videogames",
+        "trivia": [
+            {
+                "level": "easy",
+                "question": "In which year was released Luigi's mansion?",
+                "answer": "2001"
+            },
+            {
+                "level": "medium",
+                "question": "Tomb raider, icon Lara Croft was originally called...",
+                "answer": "Laura Cruz"
+            },
+            {
+                "level": "hard",
+                "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+                "answer": "7355608"
+            }
+        ]
+    },
+    {
+        "id": "1s",
+        "topic": "science & nature",
+        "trivia": [
+            {
+                "level": "easy",
+                "question": "Which Apollo mission was the first one to land on the Moon?",
+                "answer": "Apollo 11"
+            },
+            {
+                "level": "medium",
+                "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+                "answer": "Gale"
+            },
+            {
+                "level": "hard",
+                "question": "About how old is Earth?",
+                "answer": "4.5 Billion Years"
+            }
+        ]
+    },
+    {
+        "id": "1h",
+        "topic": "history",
+        "trivia": [
+            {
+                "level": "easy",
+                "question": "How many manned moon landings have there been?",
+                "answer": "6"
+            },
+            {
+                "level": "medium",
+                "question": "Which dictator killed the most people?",
+                "answer": "Mao Zedong"
+            },
+            {
+                "level": "hard",
+                "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
+                "answer": "Socrates"
+            }
+        ]
+    }
+]
